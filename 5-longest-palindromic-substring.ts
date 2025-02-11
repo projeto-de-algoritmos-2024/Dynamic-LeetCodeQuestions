@@ -6,8 +6,8 @@ function longestPalindrome(s: string): string {
 
   function expandAroundCenter(left: number, right: number): void {
     while (left >= 0 && right < s.length && s[left] === s[right]) {
-      left++;
-      right--;
+      left--;
+      right++;
     }
 
     const length = right - left - 1;
