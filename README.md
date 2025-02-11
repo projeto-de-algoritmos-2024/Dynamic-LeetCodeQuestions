@@ -17,9 +17,10 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ## Questões
 
-| Nome                                                                                                         | Nível |
-| ------------------------------------------------------------------------------------------------------------ | ----- |
-| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Médio |
+| Nome                                                                                                         | Nível   |
+| ------------------------------------------------------------------------------------------------------------ | ------- |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Médio   |
+| [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description//)                  | Difícil |
 
 ## Video
 
@@ -36,6 +37,14 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 **Caso 2:**
 
 ![](assets/palindromic2.png)
+
+### [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description//)
+
+**Caso 1:**
+![](assets/numberofdigitone1.png)
+
+**Caso 2:**
+![](assets/numberofdigitone2.png)
 
 ## Uso
 
