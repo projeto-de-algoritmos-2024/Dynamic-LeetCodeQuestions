@@ -20,7 +20,9 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 | Nome                                                                                                         | Nível   |
 | ------------------------------------------------------------------------------------------------------------ | ------- |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Médio   |
-| [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description//)                  | Difícil |
+| [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)    | Difícil |
+| [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/)                   | Difícil |
+
 
 ## Video
 
