@@ -40,6 +40,25 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ![](assets/palindromic2.png)
 
+
+### [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+
+**Caso 1:**
+
+![](assets/10-1.png)
+
+**Caso 2:**
+
+![](assets/10-2.png)
+
+**Caso 3:**
+
+![](assets/10-3.png)
+
+**Caso 4:**
+
+![](assets/10-4.png)
+
 ### [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description//)
 
 **Caso 1:**
